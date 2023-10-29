@@ -17,3 +17,7 @@ const addCourse = (course) => {
 const test = (test) =>{
   return true;
 };
+
+const getAge = (userAge) =>{
+  return age;
+};
